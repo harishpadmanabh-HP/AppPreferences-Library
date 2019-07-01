@@ -1,4 +1,4 @@
-package com.example.apppreferences_library;
+package com.harishpadmanabh.apppreferences;
 
 import org.junit.Test;
 

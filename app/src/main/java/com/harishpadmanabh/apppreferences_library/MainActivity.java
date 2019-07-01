@@ -1,4 +1,4 @@
-package com.example.apppreferences_library;
+package com.harishpadmanabh.apppreferences_library;
 
 import androidx.appcompat.app.AppCompatActivity;
 

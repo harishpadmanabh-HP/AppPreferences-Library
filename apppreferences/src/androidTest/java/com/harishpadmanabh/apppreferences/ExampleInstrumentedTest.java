@@ -1,4 +1,4 @@
-package com.example.apppreferences_library;
+package com.harishpadmanabh.apppreferences;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.apppreferences_library", appContext.getPackageName());
+        assertEquals("com.example.apppreferences.test", appContext.getPackageName());
     }
 }

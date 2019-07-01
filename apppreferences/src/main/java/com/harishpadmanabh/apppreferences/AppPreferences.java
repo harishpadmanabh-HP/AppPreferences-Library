@@ -1,4 +1,4 @@
-package com.example.apppreferences;
+package com.harishpadmanabh.apppreferences;
 
 import android.app.Activity;
 import android.content.Context;
